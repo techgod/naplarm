@@ -1,3 +1,4 @@
+![logo](/assets/logo_github.png)
 # Naplarm - Location / GPS Alarm
 
 ### Privacy Policy
