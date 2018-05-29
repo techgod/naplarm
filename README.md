@@ -1,6 +1,5 @@
-![logo](/assets/logo_github.png)
-# Naplarm - Location / GPS Alarm
-
+[![logo](/assets/logo_github.png)](https://bit.ly/naplarm)
+# [Naplarm - Location / GPS Alarm](https://bit.ly/naplarm)
 ## Privacy Policy
 
 ##### Last Updated : 29 May 2018
