@@ -1,5 +1,7 @@
-# Privacy Policy
-### Last Updated : 29 May 2018
+# Naplarm - Location / GPS Alarm
+
+### Privacy Policy
+##### Last Updated : 29 May 2018
 Yash Pradhan (“I”) operates the Naplarm mobile application (the “Service”) as a free app. This SERVICE is provided by Yash Pradhan at no cost and is intended for use as is.
 
 This page is used to inform website visitors regarding my policies with the collection, use, and disclosure of personal information if anyone decided to use my Service.
