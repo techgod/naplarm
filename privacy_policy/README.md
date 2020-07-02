@@ -1,9 +1,9 @@
-[![logo](/assets/logo_github.png)](https://bit.ly/naplarm)
+[![logo](assets/logo_github.png)](https://bit.ly/naplarm)
 # [Naplarm - Location / GPS Alarm](https://bit.ly/naplarm)
 
 ## Privacy Policy
 
-#### Last Updated : 27 June 2018
+#### Last Updated : 2 July 2020
 Yash Pradhan (“I”) operates the Naplarm mobile application (the “Service”) as a freemium app. This SERVICE is provided by Yash Pradhan at no cost and is intended for use as is. You may however purchase the pro version at the set price through an in-app purchase.
 
 This page is used to inform website visitors regarding my policies with the collection, use, and disclosure of personal information if anyone decided to use my Service.
@@ -20,7 +20,9 @@ Link to privacy policy of third party service providers used by the app
 
 [Google Play Services](https://policies.google.com/privacy)<br/>
 [AdMob](https://support.google.com/admob/answer/6128543?hl=en)<br/>
-[Firebase Analytics](https://firebase.google.com/policies/analytics/)
+[Google Analytics for Firebase](https://firebase.google.com/policies/analytics/)
+[Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+
 
 ##### Log Data
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
@@ -39,4 +41,4 @@ This Service may contain links to other sites. If you click on a third-party lin
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
 ##### Contact Us
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me by email at naplarm@gmail.com
