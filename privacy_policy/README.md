@@ -1,10 +1,10 @@
-[![logo](assets/logo_github.png)](https://bit.ly/naplarm)
-# [Naplarm - Location / GPS Alarm](https://bit.ly/naplarm)
+[![logo](assets/logo_github.png)](https://play.google.com/store/apps/details?id=yash.naplarmuno)
+# [Naplarm - Location / GPS Alarm](https://play.google.com/store/apps/details?id=yash.naplarmuno)
 
 ## Privacy Policy
 
-#### Last Updated : 2 July 2020
-Yash Pradhan (“I”) operates the Naplarm mobile application (the “Service”) as a freemium app. This SERVICE is provided by Yash Pradhan at no cost and is intended for use as is. You may however purchase the pro version at the set price through an in-app purchase.
+#### Last Updated : 1 May 2025
+Pranjal Pradhan (“I”) operates the Naplarm mobile application (the “Service”) as a freemium app. This SERVICE is provided by Pranjal Pradhan at no cost and is intended for use as is. You may however purchase the pro version at the set price through an in-app purchase.
 
 This page is used to inform website visitors regarding my policies with the collection, use, and disclosure of personal information if anyone decided to use my Service.
 
@@ -20,8 +20,9 @@ Link to privacy policy of third party service providers used by the app
 
 [Google Play Services](https://policies.google.com/privacy)<br/>
 [AdMob](https://support.google.com/admob/answer/6128543?hl=en)<br/>
-[Google Analytics for Firebase](https://firebase.google.com/policies/analytics/)
+[Google Analytics for Firebase](https://firebase.google.com/policies/analytics/)<br/>
 [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+[AppLovin](https://www.applovin.com/privacy/)
 
 
 ##### Log Data
